@@ -1,1 +1,1 @@
-# masterming-games-v2
+# mastermind-games-v2
